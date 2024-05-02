@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>LoginMAUI</name>
+    </assembly>
+    <members>
+        <member name="T:LoginMAUI.ViewModels.MainPageViewModel">
+            <inheritdoc/>
+            <inheritdoc/>
+            <inheritdoc/>
+            <inheritdoc/>
+            <inheritdoc/>
+        </member>
+        <member name="P:LoginMAUI.ViewModels.MainPageViewModel.RegisterModel">
+            <inheritdoc cref="F:LoginMAUI.ViewModels.MainPageViewModel.registerModel"/>
+        </member>
+        <member name="P:LoginMAUI.ViewModels.MainPageViewModel.LoginModel">
+            <inheritdoc cref="F:LoginMAUI.ViewModels.MainPageViewModel.loginModel"/>
+        </member>
+        <member name="P:LoginMAUI.ViewModels.MainPageViewModel.UserName">
+            <inheritdoc cref="F:LoginMAUI.ViewModels.MainPageViewModel.userName"/>
+        </member>
+        <member name="P:LoginMAUI.ViewModels.MainPageViewModel.IsAuthenticated">
+            <inheritdoc cref="F:LoginMAUI.ViewModels.MainPageViewModel.isAuthenticated"/>
+        </member>
+        <member name="F:LoginMAUI.ViewModels.MainPageViewModel.registerCommand">
+            <summary>The backing field for <see cref="P:LoginMAUI.ViewModels.MainPageViewModel.RegisterCommand"/>.</summary>
+        </member>
+        <member name="P:LoginMAUI.ViewModels.MainPageViewModel.RegisterCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:LoginMAUI.ViewModels.MainPageViewModel.Register"/>.</summary>
+        </member>
+        <member name="F:LoginMAUI.ViewModels.MainPageViewModel.loginCommand">
+            <summary>The backing field for <see cref="P:LoginMAUI.ViewModels.MainPageViewModel.LoginCommand"/>.</summary>
+        </member>
+        <member name="P:LoginMAUI.ViewModels.MainPageViewModel.LoginCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:LoginMAUI.ViewModels.MainPageViewModel.Login"/>.</summary>
+        </member>
+        <member name="F:LoginMAUI.ViewModels.MainPageViewModel.logoutCommand">
+            <summary>The backing field for <see cref="P:LoginMAUI.ViewModels.MainPageViewModel.LogoutCommand"/>.</summary>
+        </member>
+        <member name="P:LoginMAUI.ViewModels.MainPageViewModel.LogoutCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:LoginMAUI.ViewModels.MainPageViewModel.Logout"/>.</summary>
+        </member>
+        <member name="F:LoginMAUI.ViewModels.MainPageViewModel.goToWeatherForecastCommand">
+            <summary>The backing field for <see cref="P:LoginMAUI.ViewModels.MainPageViewModel.GoToWeatherForecastCommand"/>.</summary>
+        </member>
+        <member name="P:LoginMAUI.ViewModels.MainPageViewModel.GoToWeatherForecastCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:LoginMAUI.ViewModels.MainPageViewModel.GoToWeatherForecast"/>.</summary>
+        </member>
+        <member name="T:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs">
+            <summary>
+            A helper type providing cached, reusable <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instances
+            for all properties generated with <see cref="T:CommunityToolkit.Mvvm.ComponentModel.ObservablePropertyAttribute"/>.
+            </summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.RegisterModel">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "RegisterModel" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.LoginModel">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "LoginModel" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.UserName">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "UserName" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.IsAuthenticated">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "IsAuthenticated" generated properties.</summary>
+        </member>
+        <member name="T:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs">
+            <summary>
+            A helper type providing cached, reusable <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instances
+            for all properties generated with <see cref="T:CommunityToolkit.Mvvm.ComponentModel.ObservablePropertyAttribute"/>.
+            </summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.RegisterModel">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "RegisterModel" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.LoginModel">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "LoginModel" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.UserName">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "UserName" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.IsAuthenticated">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "IsAuthenticated" generated properties.</summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,1 @@
+D:\Projects\Visual_Studio\Maui\DemoLoginApp\LoginMAUI\LoginMAUI.csproj;x64
